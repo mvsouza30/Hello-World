@@ -2,9 +2,9 @@
 <head>
 <title>My Resume</title>
 <body>
-	<img src="D:/EmergencyBKP/Courses/CICD Project/2022 Project/My Resume/img01"><br>
-	<img src="D:/EmergencyBKP/Courses/CICD Project/2022 Project/My Resume/img02"><br>
-	<img src="D:/EmergencyBKP/Courses/CICD Project/2022 Project/My Resume/img03">
+	<img src="img01.PNG"><br>
+	<img src="img02.PNG"><br>
+	<img src="img03.PNG">
 
 </body>
 </head>
