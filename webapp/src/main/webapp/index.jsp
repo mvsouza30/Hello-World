@@ -3,7 +3,7 @@
 <title>My Resume</title>
 <body>
 	<h1>Marcos Venancio de Souza</h1><hr>
-	<h2>Specialist Cloud Architect</h2>
+	<h2>Specialist Cloud Architect</h2><hr>
 	<h3>Powered by myself</h3>
 
 
