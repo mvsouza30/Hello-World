@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Testing</title>
+<title>My_Project</title>
 <body>
 	<h1>Marcos Venancio de Souza</h1><hr>
 	<h2>\***Specialist Cloud Architect at Capgemini company***/</h2><hr>
