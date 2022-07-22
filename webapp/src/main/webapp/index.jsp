@@ -3,8 +3,8 @@
 <title>My_Project</title>
 <body>
 	<h1>Marcos Venancio de Souza</h1><hr>
-	<h2>\***Specialist Cloud Architect at Capgemini company***/</h2><hr>
-	<h2>\***E-mail: mvsouza@capgemini.com.br***/</h2><hr>
+        <p><b>Role:</b>_***Specialist Cloud Architect at Capgemini company***/</p><hr>
+	<p><b>E-mail:</b>_***mvsouza@capgemini.com.br***/</p><hr>
 	
 
 
